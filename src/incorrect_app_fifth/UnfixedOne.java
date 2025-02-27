@@ -45,5 +45,6 @@ public class UnfixedOne {
         int y = 20;
         int min = Math.min(x, y); // Use Math class to find min value
         System.out.println("Minimum value: " + min);
+
     }
 }
